@@ -1,4 +1,4 @@
-# my-project
+# my-poka
 
 ## Project setup
 ```
