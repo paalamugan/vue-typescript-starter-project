@@ -1,4 +1,4 @@
-# my-poka
+# Vue Typescript Starter Project
 
 ## Project setup
 ```
